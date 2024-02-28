@@ -12,7 +12,7 @@ class _ScreenSplashState extends State<ScreenSplash> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("Slapsh"),
+        child: Text("Slapsh hihiii"),
       ),
     );
   }
